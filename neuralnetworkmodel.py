@@ -23,7 +23,7 @@ def layer_sizes(X, Y):
   ### END CODE HERE ###
   return (n_x, n_h, n_y)
  
- def initialize_parameters(n_x, n_h, n_y):
+def initialize_parameters(n_x, n_h, n_y):
   """
   Argument:
   n_x -- size of the input layer
